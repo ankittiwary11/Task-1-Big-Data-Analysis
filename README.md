@@ -14,13 +14,14 @@
 
 | Field | Details |
 |---|---|
-| **Company** | CODTECH IT Solutions Pvt. Ltd. |
-| **Intern Name** | Your Name |
-| **Intern ID** | Your Intern ID |
+| **Intern Name** | Ankit Tiwary|
+| **Intern ID** | CITS538 |
+| **Company** | CODTECH IT Solutions Pvt. Ltd |
 | **Domain** | Data Analytics |
 | **Task** | Task 1 — Big Data Analysis |
+| **Mentor** | Neela Santhosh Kumar |
 | **Duration** | 4 Weeks |
-| **Mentor** | Mentor Name |
+
 
 ---
 
